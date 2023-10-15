@@ -1,0 +1,11 @@
+COTACAO             = 'COT$S|'
+AUTOMATIZADOR       = 'AUT$S|'
+LIVRO_DE_OFERTAS    = 'LVL2$S|'
+NEGOCIO             = 'NEG$S|'
+NEGOCIO_COMPLETO    = 'NEGS$S|'
+INTERVALO_GRAFICO   = 'GRF$S|'
+
+BOOK_LEVELS = 3
+
+HOST = '127.0.0.1'
+PORT = 12002
